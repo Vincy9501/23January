@@ -11,7 +11,7 @@ func main() {
 }
 
 func hello(i int) {
-	println("hello goroutine : " + fmt.Sprint(i))
+	println("hello 1 goroutine : " + fmt.Sprint(i))
 }
 
 func HelloGo() {
