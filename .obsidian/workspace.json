@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcd7071000030916",
+            "id": "de6fc6b359e7ffd7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pic/Pasted image 20230117185947.png"
+                "file": "md/20230202-分布式理论.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "73db56083f9e383e",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pic/Pasted image 20230117185947.png",
+                "file": "md/20230202-分布式理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pic/Pasted image 20230117185947.png",
+                "file": "md/20230202-分布式理论.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pic/Pasted image 20230117185947.png"
+                "file": "md/20230202-分布式理论.md"
               }
             }
           }
@@ -145,17 +148,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ab3084a9ec9c793a",
+  "active": "de6fc6b359e7ffd7",
   "lastOpenFiles": [
-    "md/202301171200-高质量编程及性能调优实战.md",
-    "md/202301171307-Go代码格式化之gofmt的使用.md",
-    "md/问题：goland同目录下单元测试提示函数undefined.md",
-    "md/202301161325-Go语言进阶与依赖管理.md",
-    "pic/Pasted image 20230116204008.png",
-    "md/202301151655-实战.md",
-    "md/202301151400-GoLand入门.md",
-    "README.md",
-    "pic/Pasted image 20230116135729.png",
-    "Pasted image 20230116134107.png.md"
+    "md/20230201-架构初探.md",
+    "md/20230120-Go 框架三件套详解（Web-RPC-ORM）.md",
+    "md/20230119-性能优化及自动内存管理.md",
+    "md/20230117-高质量编程及性能调优实战.md",
+    "md/20230117-Go代码格式化之gofmt的使用.md",
+    "md/20230115-GoLand入门.md",
+    "md/20230116-Go语言进阶与依赖管理.md",
+    "md/20230115-实战.md",
+    "md/20230202-分布式理论.md",
+    "md/20230131-规则引擎设计与实现.md"
   ]
 }
